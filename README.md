@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
+![image](T.jpeg)
 ### Name:S.SRIGANESH
 ### Register Number:212225220102
 
